@@ -1,0 +1,10 @@
+condition:
+ payloadName: "ADD_CUSTOMER"
+ versionNumber: "2.5"
+dataList:
+ - 
+  dataName: "STATUS_CODE"
+  dataLength: 30
+ - 
+  dataName: "STATUS_TYPE"
+  dataLength: 10
